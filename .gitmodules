@@ -1,0 +1,6 @@
+[submodule "C_LIB/Pico-PIO-USB/pico-sdk"]
+	path = C_LIB/Pico-PIO-USB/pico-sdk
+	url = https://github.com/raspberrypi/pico-sdk.git
+[submodule "C_LIB/Pico-PIO-USB/Pico-PIO-USB"]
+	path = C_LIB/Pico-PIO-USB/Pico-PIO-USB
+	url = git@github.com:sekigon-gonnoc/Pico-PIO-USB.git
