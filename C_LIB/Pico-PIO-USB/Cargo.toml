@@ -1,0 +1,13 @@
+[package]
+name = "Pico-PIO-USB"
+edition = "2021"
+version = "0.1.0"
+
+[lib]
+crate-type = ["lib"]
+
+[dependencies]
+libc = "0.2.1"
+
+[build-dependencies]
+bindgen = "0.60"
